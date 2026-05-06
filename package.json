@@ -1,0 +1,14 @@
+{
+  "name": "war-crate-bot",
+  "version": "1.0.0",
+  "description": "Bot Discord pour tracker les fournitures de guerre WoW",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2"
+  }
+}
